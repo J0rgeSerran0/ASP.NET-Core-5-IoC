@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\GitHub\J0rgeSerran0\ASP.NET-Core-5-IoC\src\WebApp\WebApp.xml</DocumentationFile>
+    <DocumentationFile>WebApp.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
